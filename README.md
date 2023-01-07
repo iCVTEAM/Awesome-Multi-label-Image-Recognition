@@ -5,7 +5,6 @@
 Todo List:
 
 - [ ] More Tags
-
 - [ ] Performance Statistics
 - [ ] Datasets
 - [ ] Surveys
@@ -17,18 +16,19 @@ Todo List:
 
 ## Content:
 
-1. <a href="#Multi-label Image Recognition"> Multi-label Image Recognition </a>
-2. <a href="#Noisy-label Multi-label Image Recognition"> Noisy-label Multi-label Image Recognition </a>
-3. <a href="#Partial-label Multi-label Image Recognition"> Partial-label Multi-label Image Recognition </a>
-4. <a href="#Zero-shot Multi-label Image Recognition"> Zero-shot Multi-label Image Recognition </a>
-5. <a href="#Few-shot Multi-label Image Recognition"> Few-shot Multi-label Image Recognition </a>
+1. [Awesome Multi-label Image Recognition Paper List](#awesome-multi-label-image-recognition-paper-list)
+2. [Multi-label Image Recognition](#multi-label-image-recognition)
+3. [Noisy-label Multi-label Image Recognition](#noisy-label-multi-label-image-recognition)
+4. [Partial-label Multi-label Image Recognition](#partial-label-multi-label-image-recognition)
+5. [Zero-shot Multi-label Image Recognition](#zero-shot-multi-label-image-recognition)
+6. [Few-shot Multi-label Image Recognition](#few-shot-multi-label-image-recognition)
 
 
 ------
 
  
 
-# Multi-label Image Recognition <a id="Multi-label Image Recognition" class="anchor" href="Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a>
+# Multi-label Image Recognition
 
 
 ## 2022
@@ -108,7 +108,7 @@ Todo List:
 
 
 
-# Noisy-label Multi-label Image Recognition <a id="Noisy-label Multi-label Image Recognition" class="anchor" href="Noisy-label Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# Noisy-label Multi-label Image Recognition
 
 ## 2017~2022
 
@@ -123,7 +123,7 @@ Todo List:
 
 
 
-# Partial-label Multi-label Image Recognition  <a id="Partial-label Multi-label Image Recognition" class="anchor" href="Partial-label Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# Partial-label Multi-label Image Recognition
 ## 2019~2022
 
 |  **Pub.**   | **Title**                                                                                    |                                                                                                                   **Links**                                                                                                                   |
@@ -143,7 +143,7 @@ Todo List:
 
 
 
-# Zero-shot Multi-label Image Recognition  <a id="Zero-shot Multi-label Image Recognition" class="anchor" href="Zero-shot Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a>
+# Zero-shot Multi-label Image Recognition
 
 ## 2018~2022
 
@@ -157,7 +157,7 @@ Todo List:
 
 
 
-# Few-shot Multi-label Image Recognition  <a id="Few-shot Multi-label Image Recognition" class="anchor" href="Few-shot Multi-label Image Recognition" aria-hidden="true"><span class="octicon octicon-link"></span></a> 
+# Few-shot Multi-label Image Recognition
 
 ## 2022
 
